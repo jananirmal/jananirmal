@@ -2,21 +2,14 @@ class Hello
 
 {
 
+
 public static void main(String args[])
 
 {
 
-System.out.println("hello from Feature-101-2.0");
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-#This line is added for testing cherry-pick
-=======
->>>>>>> c3f0c66... Added 2.0 in the line
+System.out.println("hello from local");
 
-#This line is added for testing cherry-pick
-=======
->>>>>>> c3f0c66... Added 2.0 in the line
 
 }
 
